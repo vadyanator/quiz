@@ -1,1 +1,1 @@
-# quiz
+# https://vadyanator.github.io/quiz/

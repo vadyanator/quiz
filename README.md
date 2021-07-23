@@ -1,1 +1,1 @@
-# https://vadyanator.github.io/quiz/
+# https://vsuslov29.github.io/quiz/
